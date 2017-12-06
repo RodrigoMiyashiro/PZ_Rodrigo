@@ -1,0 +1,6 @@
+framework module Pods_PzTestUITests {
+  umbrella header "Pods-PzTestUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
